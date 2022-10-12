@@ -1,0 +1,15 @@
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\bin\Debug\net6.0\Первый проект.exe
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\bin\Debug\net6.0\Первый проект.deps.json
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\bin\Debug\net6.0\Первый проект.runtimeconfig.json
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\bin\Debug\net6.0\Первый проект.dll
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\bin\Debug\net6.0\Первый проект.pdb
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\Первый проект.csproj.AssemblyReference.cache
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\Первый проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\Первый проект.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\Первый проект.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\Первый проект.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\Первый проект.dll
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\refint\Первый проект.dll
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\Первый проект.pdb
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\Первый проект.genruntimeconfig.cache
+C:\Users\Vasil\Desktop\Домашняя работа GB\C#\Первый проект\obj\Debug\net6.0\ref\Первый проект.dll
