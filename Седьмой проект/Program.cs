@@ -1,15 +1,34 @@
 ﻿Console.Clear();
-//Console.SetCursorPosition(5, 1);
-//Console.WriteLine("0");
-
-int xa = 1, ya = 5;
-int xb = 1, yb = 40; 
-int xc = 80, yc = 40;
+int xa = 40, ya = 1,
+    xb = 1, yb = 30, 
+    xc = 80, yc = 30;
 Console.SetCursorPosition(xa, ya);
-Console.WriteLine("a");
-
+Console.WriteLine("+");
 Console.SetCursorPosition(xb, yb);
-Console.WriteLine("b");
-
+Console.WriteLine("+");
 Console.SetCursorPosition(xc, yc);
-Console.WriteLine("c");
+Console.WriteLine("+");
+int x = xa, y = xb;
+int count = 0;
+while(count < 3000)
+{
+   int number = new Random().Next(0, 3); //ВЫБОР ОДного из трех точек - 0, 1, 2 
+   if (number == 0)
+   {
+       x = (x+xa)/2;
+       y = (y+ya)/2;
+   }
+   if (number == 1)
+   {
+       x = (x+xb)/2;
+       y = (y+yb)/2;
+   }
+   if (number == 2)
+   {
+       x = (x+xc)/2;
+       y = (y+yc)/2;
+   }
+   Console.SetCursorPosition(x, y);
+   Console.WriteLine("+");
+   count++;
+}
