@@ -1,4 +1,5 @@
-﻿int count = 0;
+﻿Console.Clear();
+int count = 0;
 double distance = 10000;
 int firstFriendSpeed = 1;
 int secondFriendSpeed = 2;
