@@ -9,15 +9,15 @@ while(distance > 10)
 {
     if (friend == 1)
     {
-        double time = distance/(firstFriendSpeed + dogSpeed);
-        bool friend = 2;
+        time = distance/(firstFriendSpeed + dogSpeed);
+        friend = 2;
     }
     else
     {
-        double time = distance/(secondFriendSpeed + dogSpeed);
-        bool friend = 1;
+        time = distance/(secondFriendSpeed + dogSpeed);
+        friend = 1;
     }
     distance = distance-(firstFriendSpeed + secondFriendSpeed)* time;
     count++;
 }
-Console.WriteLine("Собака пробежала", count, "раз");
+Console.WriteLine($"Собака пробежала {count} раз");
